@@ -1,0 +1,49 @@
+h1{
+ background-color: cadetblue;
+ border: 5px solid red;
+ text-align: center;
+ border-radius: 30px;
+ color: indigo;
+}
+.b1{
+    background-color: yellow;
+    color: black;
+}
+.b3{
+    color: indigo;
+}
+.b2{
+    color: brown;
+}
+.g3{
+    color: lime;
+}
+.n1{
+    color: red;
+}
+.n2{
+    color: yellow;
+}
+.n3{
+    color: limegreen;
+}
+.n4{
+    color: darkgray;
+}
+.t3{
+    background-color: red;
+}
+.t5{
+    color: black;
+    background-color: blueviolet;
+}
+.t6{
+    background-color: green;
+}
+caption{
+    background-color: yellow;
+}
+table{
+    width: 900px;
+    height: 200px;
+}
